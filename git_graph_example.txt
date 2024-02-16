@@ -1,0 +1,184 @@
+*   Merge branch 'hotfix' into dev - d194a11 (dev)
+|\  Lukas Halbritter vor 9 Minuten (16.02.2024, 10:22:35)
+| |
+| | *   Merge branch 'hotfix' - 4611cfd (HEAD -> main)
+| | |\  Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:51)
+| | |/
+| |/|
+| | |
+| * | This is a hotfix - 9076e69 (hotfix)
+| |/  Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:03)
+| |
+* |   Merge branch 'feature1' into dev - 8d57d7e
+|\ \  Lukas Halbritter vor 13 Minuten (16.02.2024, 10:18:47)
+| | |
+* | | Change stuff on dev - c61e57a
+| | | Lukas Halbritter vor 15 Minuten (16.02.2024, 10:16:02)
+| | |
+| * | Feature1 first commit - 45dee9c
+|/ /  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:37:59)
+| |
+* | A commit on the dev branch - 1d7c466
+|/  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:36:28)
+|
+* Initial commit. - c10516f
+  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:34:50)
+
+    *  Merge branch 'hotfix' into dev - d194a11 (dev)
+    |\ Lukas Halbritter vor 9 Minuten (16.02.2024, 10:22:35)
+    |/
+*  /| Merge branch 'hotfix' - 4611cfd (HEAD -> main)
+|\| | Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:51)
+| | |
+| * | This is a hotfix - 9076e69 (hotfix)
+| | | Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:03)
+|/  |
+|   *   Merge branch 'feature1' into dev - 8d57d7e
+|   |\  Lukas Halbritter vor 13 Minuten (16.02.2024, 10:18:47)
+|   | |
+|   * | Change stuff on dev - c61e57a
+|   | | Lukas Halbritter vor 15 Minuten (16.02.2024, 10:16:02)
+|   | |
+|   | * Feature1 first commit - 45dee9c
+|   | | Lukas Halbritter vor 9 Tagen (07.02.2024, 08:37:59)
+|   |/
+|   * A commit on the dev branch - 1d7c466
+|   | Lukas Halbritter vor 9 Tagen (07.02.2024, 08:36:28)
+| _/
+|/
+* Initial commit. - c10516f
+  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:34:50)
+
+*   Merge branch 'release' into dev - 9e4a753 (HEAD -> dev)
+|\  Lukas Halbritter vor 8 Sekunden (16.02.2024, 11:14:47)
+| |
+| | *   Merge branch 'release' - 280c6b4 (main)
+| | |\  Lukas Halbritter vor 55 Sekunden (16.02.2024, 11:14:00)
+| | |/
+| |/|
+| | |
+| * |   Merge branch 'feature2' into release - e59b319 (release)
+| |\ \  Lukas Halbritter vor 81 Sekunden (16.02.2024, 11:13:34)
+| | | |
+* | | |   Merge branch 'feature2' into dev - d964405
+|\ \ \ \  Lukas Halbritter vor 3 Minuten (16.02.2024, 11:11:38)
+| | |/ /
+| |/| |
+| | | |
+| | * | Make release adjustments - 9820696
+| |/ /  Lukas Halbritter vor 7 Minuten (16.02.2024, 11:07:30)
+|/| |
+| | |
+| * |   Merge branch 'dev' into feature2 - 65c5ea4 (feature2)
+| |\ \  Lukas Halbritter vor 10 Minuten (16.02.2024, 11:05:11)
+| |/ /
+|/| |
+| | |
+* | |   Merge branch 'feature3' into dev - fce532c
+|\ \ \  Lukas Halbritter vor 13 Minuten (16.02.2024, 11:02:22)
+| | | |
+| * | | Made some changes on feature3 branch - 296d49f (feature3)
+| | | | Lukas Halbritter vor 13 Minuten (16.02.2024, 11:01:48)
+| | | |
+| | * | Change init on feature2 branch - e0574eb
+| | | | Lukas Halbritter vor 15 Minuten (16.02.2024, 11:00:05)
+| | | |
+| | * | Start working on feature2 - d75b450
+| |/ /  Lukas Halbritter vor 16 Minuten (16.02.2024, 10:58:49)
+|/| |
+| | |
+| * | Change feature3 - b40c6ab
+| | | Lukas Halbritter vor 17 Minuten (16.02.2024, 10:57:52)
+| | |
+| * | Add feature3 file - 99ea7f6
+|/ /  Lukas Halbritter vor 17 Minuten (16.02.2024, 10:57:29)
+| |
+* |   Merge branch 'hotfix' into dev - d194a11
+|\ \  Lukas Halbritter vor 52 Minuten (16.02.2024, 10:22:35)
+| | |
+| | *   Merge branch 'hotfix' - 4611cfd
+| | |\  Lukas Halbritter vor 53 Minuten (16.02.2024, 10:21:51)
+| | |/
+| |/|
+| | |
+| * | This is a hotfix - 9076e69 (hotfix)
+| |/  Lukas Halbritter vor 54 Minuten (16.02.2024, 10:21:03)
+| |
+* |   Merge branch 'feature1' into dev - 8d57d7e
+|\ \  Lukas Halbritter vor 56 Minuten (16.02.2024, 10:18:47)
+| | |
+* | | Change stuff on dev - c61e57a
+| | | Lukas Halbritter vor 59 Minuten (16.02.2024, 10:16:02)
+| | |
+| * | Feature1 first commit - 45dee9c
+|/ /  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:37:59)
+| |
+* | A commit on the dev branch - 1d7c466
+|/  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:36:28)
+|
+* Initial commit. - c10516f
+  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:34:50)
+
+    *  Merge branch 'release' into dev - 9e4a753 (HEAD -> dev)
+    |\ Lukas Halbritter vor 8 Sekunden (16.02.2024, 11:14:47)
+    |/
+*  /| Merge branch 'release' - 280c6b4 (main)
+|\| | Lukas Halbritter vor 55 Sekunden (16.02.2024, 11:14:00)
+| | |
+| * |   Merge branch 'feature2' into release - e59b319 (release)
+| |\|__ Lukas Halbritter vor 81 Sekunden (16.02.2024, 11:13:34)
+| | |  \
+| | *   | Merge branch 'feature2' into dev - d964405
+| | |\_ | Lukas Halbritter vor 3 Minuten (16.02.2024, 11:11:38)
+| | |  \|
+| * |   |  Make release adjustments - 9820696
+| | |   |  Lukas Halbritter vor 7 Minuten (16.02.2024, 11:07:30)
+|  \|   |
+|   |   *  Merge branch 'dev' into feature2 - 65c5ea4 (feature2)
+|   |   |\ Lukas Halbritter vor 10 Minuten (16.02.2024, 11:05:11)
+|   | __|/
+|   |/  |
+|   *   | Merge branch 'feature3' into dev - fce532c
+|   |\  | Lukas Halbritter vor 13 Minuten (16.02.2024, 11:02:22)
+|   | | |
+|   | * | Made some changes on feature3 branch - 296d49f (feature3)
+|   | | | Lukas Halbritter vor 13 Minuten (16.02.2024, 11:01:48)
+|   | | |
+|   | | * Change init on feature2 branch - e0574eb
+|   | | | Lukas Halbritter vor 15 Minuten (16.02.2024, 11:00:05)
+|   | | |
+|   | | * Start working on feature2 - d75b450
+|   | | | Lukas Halbritter vor 16 Minuten (16.02.2024, 10:58:49)
+|   | |/
+|   |/|
+|   | |
+|   | * Change feature3 - b40c6ab
+|   | | Lukas Halbritter vor 17 Minuten (16.02.2024, 10:57:52)
+|   | |
+|   | * Add feature3 file - 99ea7f6
+|   | | Lukas Halbritter vor 17 Minuten (16.02.2024, 10:57:29)
+|   |/
+|   *  Merge branch 'hotfix' into dev - d194a11
+|   |\ Lukas Halbritter vor 9 Minuten (16.02.2024, 10:22:35)
+|   |/
+*  /| Merge branch 'hotfix' - 4611cfd
+|\| | Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:51)
+| | |
+| * | This is a hotfix - 9076e69
+| | | Lukas Halbritter vor 10 Minuten (16.02.2024, 10:21:03)
+|/  |
+|   *   Merge branch 'feature1' into dev - 8d57d7e
+|   |\  Lukas Halbritter vor 13 Minuten (16.02.2024, 10:18:47)
+|   | |
+|   * | Change stuff on dev - c61e57a
+|   | | Lukas Halbritter vor 15 Minuten (16.02.2024, 10:16:02)
+|   | |
+|   | * Feature1 first commit - 45dee9c
+|   | | Lukas Halbritter vor 9 Tagen (07.02.2024, 08:37:59)
+|   |/
+|   * A commit on the dev branch - 1d7c466
+|   | Lukas Halbritter vor 9 Tagen (07.02.2024, 08:36:28)
+| _/
+|/
+* Initial commit. - c10516f
+  Lukas Halbritter vor 9 Tagen (07.02.2024, 08:34:50)
