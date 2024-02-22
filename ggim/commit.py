@@ -6,7 +6,7 @@ from typing import List
 @define
 class Commit:
     commit_hash: str
-    parent_hash: List[str]
+    parent_hashes: List[str]
     tree_hash: str
     commit_time: datetime
     committer: str
