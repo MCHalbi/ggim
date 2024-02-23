@@ -1,0 +1,49 @@
+0000000000000000000000000000000000000000 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1707291290 +0100	commit (initial): Initial commit.
+c10516fb7c8a6ce5138914a3554a587865bd1886 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1707291378 +0100	checkout: moving from main to dev
+c10516fb7c8a6ce5138914a3554a587865bd1886 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1707291388 +0100	commit: A commit on the dev branch
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1707291445 +0100	checkout: moving from dev to feature1
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a 45dee9cbfb45651058ecbbeb114f974208d50d36 Lukas Halbritter <halbi93@gmx.de> 1707291479 +0100	commit: Feature1 first commit
+45dee9cbfb45651058ecbbeb114f974208d50d36 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1707291505 +0100	checkout: moving from feature1 to dev
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1708074927 +0100	checkout: moving from dev to feature2
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1708074940 +0100	checkout: moving from feature2 to dev
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a c61e57a339e13a8974f7f00bde1fb6945e6aab99 Lukas Halbritter <halbi93@gmx.de> 1708074962 +0100	commit: Change stuff on dev
+c61e57a339e13a8974f7f00bde1fb6945e6aab99 45dee9cbfb45651058ecbbeb114f974208d50d36 Lukas Halbritter <halbi93@gmx.de> 1708075055 +0100	checkout: moving from dev to feature1
+45dee9cbfb45651058ecbbeb114f974208d50d36 c61e57a339e13a8974f7f00bde1fb6945e6aab99 Lukas Halbritter <halbi93@gmx.de> 1708075083 +0100	checkout: moving from feature1 to dev
+c61e57a339e13a8974f7f00bde1fb6945e6aab99 8d57d7ebb0e64b129f1e4855b39c5aceb0222509 Lukas Halbritter <halbi93@gmx.de> 1708075127 +0100	merge feature1: Merge made by the 'ort' strategy.
+8d57d7ebb0e64b129f1e4855b39c5aceb0222509 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1708075215 +0100	checkout: moving from dev to main
+c10516fb7c8a6ce5138914a3554a587865bd1886 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1708075226 +0100	checkout: moving from main to hotfix
+c10516fb7c8a6ce5138914a3554a587865bd1886 9076e69796f4b8d8a6a04a8a63857550c0c30869 Lukas Halbritter <halbi93@gmx.de> 1708075263 +0100	commit: This is a hotfix
+9076e69796f4b8d8a6a04a8a63857550c0c30869 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1708075305 +0100	checkout: moving from hotfix to main
+c10516fb7c8a6ce5138914a3554a587865bd1886 4611cfdee6fb37cc4b47bd5901034c729fd59acc Lukas Halbritter <halbi93@gmx.de> 1708075311 +0100	merge hotfix: Merge made by the 'ort' strategy.
+4611cfdee6fb37cc4b47bd5901034c729fd59acc 8d57d7ebb0e64b129f1e4855b39c5aceb0222509 Lukas Halbritter <halbi93@gmx.de> 1708075339 +0100	checkout: moving from main to dev
+8d57d7ebb0e64b129f1e4855b39c5aceb0222509 d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708075355 +0100	merge hotfix: Merge made by the 'ort' strategy.
+d194a117476c9abb880a2c0371cf648c8ac2198e 4611cfdee6fb37cc4b47bd5901034c729fd59acc Lukas Halbritter <halbi93@gmx.de> 1708075420 +0100	checkout: moving from dev to main
+4611cfdee6fb37cc4b47bd5901034c729fd59acc d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077242 +0100	checkout: moving from main to dev
+d194a117476c9abb880a2c0371cf648c8ac2198e d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077398 +0100	checkout: moving from dev to feature2
+d194a117476c9abb880a2c0371cf648c8ac2198e d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077402 +0100	checkout: moving from feature2 to dev
+d194a117476c9abb880a2c0371cf648c8ac2198e d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077407 +0100	checkout: moving from dev to feature3
+d194a117476c9abb880a2c0371cf648c8ac2198e 99ea7f64875c2de8fe851032986706913e636bbc Lukas Halbritter <halbi93@gmx.de> 1708077449 +0100	commit: Add feature3 file
+99ea7f64875c2de8fe851032986706913e636bbc b40c6abead111da5ba5dbc7526fd906d2eff8d23 Lukas Halbritter <halbi93@gmx.de> 1708077472 +0100	commit: Change feature3
+b40c6abead111da5ba5dbc7526fd906d2eff8d23 d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077505 +0100	checkout: moving from feature3 to feature2
+d194a117476c9abb880a2c0371cf648c8ac2198e d75b4501f940172efc86fe0d068baa525146ce9e Lukas Halbritter <halbi93@gmx.de> 1708077529 +0100	commit: Start working on feature2
+d75b4501f940172efc86fe0d068baa525146ce9e e0574ebb0fc963029ea6cb029806249d70e64fdc Lukas Halbritter <halbi93@gmx.de> 1708077605 +0100	commit: Change init on feature2 branch
+e0574ebb0fc963029ea6cb029806249d70e64fdc b40c6abead111da5ba5dbc7526fd906d2eff8d23 Lukas Halbritter <halbi93@gmx.de> 1708077620 +0100	checkout: moving from feature2 to feature3
+b40c6abead111da5ba5dbc7526fd906d2eff8d23 296d49f5e5c09690b936d75714de1bd56ede4902 Lukas Halbritter <halbi93@gmx.de> 1708077708 +0100	commit: Made some changes on feature3 branch
+296d49f5e5c09690b936d75714de1bd56ede4902 d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708077728 +0100	checkout: moving from feature3 to dev
+d194a117476c9abb880a2c0371cf648c8ac2198e fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708077742 +0100	merge feature3: Merge made by the 'ort' strategy.
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 e0574ebb0fc963029ea6cb029806249d70e64fdc Lukas Halbritter <halbi93@gmx.de> 1708077823 +0100	checkout: moving from dev to feature2
+e0574ebb0fc963029ea6cb029806249d70e64fdc 65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 Lukas Halbritter <halbi93@gmx.de> 1708077911 +0100	commit (merge): Merge branch 'dev' into feature2
+65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708077963 +0100	checkout: moving from feature2 to dev
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708077972 +0100	checkout: moving from dev to release
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 9820696fef830d712d6f9202de025c4aa95c0384 Lukas Halbritter <halbi93@gmx.de> 1708078050 +0100	commit: Make release adjustments
+9820696fef830d712d6f9202de025c4aa95c0384 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708078097 +0100	checkout: moving from release to dev
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 Lukas Halbritter <halbi93@gmx.de> 1708078103 +0100	merge feature2: Fast-forward
+65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708078235 +0100	checkout: moving from dev to fce532c
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708078239 +0100	checkout: moving from fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 to dev
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 d9644056eb6317cbeafe5fd34ada6c2845379eca Lukas Halbritter <halbi93@gmx.de> 1708078298 +0100	merge feature2: Merge made by the 'ort' strategy.
+d9644056eb6317cbeafe5fd34ada6c2845379eca 9820696fef830d712d6f9202de025c4aa95c0384 Lukas Halbritter <halbi93@gmx.de> 1708078319 +0100	checkout: moving from dev to release
+9820696fef830d712d6f9202de025c4aa95c0384 e59b3193beb54abab34e4608991cd00c7046db70 Lukas Halbritter <halbi93@gmx.de> 1708078414 +0100	merge feature2: Merge made by the 'ort' strategy.
+e59b3193beb54abab34e4608991cd00c7046db70 4611cfdee6fb37cc4b47bd5901034c729fd59acc Lukas Halbritter <halbi93@gmx.de> 1708078428 +0100	checkout: moving from release to main
+4611cfdee6fb37cc4b47bd5901034c729fd59acc 280c6b4e238d9563cca38feaa7568c38b9995cdd Lukas Halbritter <halbi93@gmx.de> 1708078440 +0100	merge release: Merge made by the 'ort' strategy.
+280c6b4e238d9563cca38feaa7568c38b9995cdd d9644056eb6317cbeafe5fd34ada6c2845379eca Lukas Halbritter <halbi93@gmx.de> 1708078478 +0100	checkout: moving from main to dev
+d9644056eb6317cbeafe5fd34ada6c2845379eca 9e4a753cf5817c0f8c92b4390d3a8c611e4ae6cf Lukas Halbritter <halbi93@gmx.de> 1708078487 +0100	merge release: Merge made by the 'ort' strategy.

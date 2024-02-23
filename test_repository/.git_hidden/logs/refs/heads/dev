@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 c10516fb7c8a6ce5138914a3554a587865bd1886 Lukas Halbritter <halbi93@gmx.de> 1707291303 +0100	branch: Created from main
+c10516fb7c8a6ce5138914a3554a587865bd1886 1d7c4660fa98d8d507fa0da3b041e0a117c3e18a Lukas Halbritter <halbi93@gmx.de> 1707291388 +0100	commit: A commit on the dev branch
+1d7c4660fa98d8d507fa0da3b041e0a117c3e18a c61e57a339e13a8974f7f00bde1fb6945e6aab99 Lukas Halbritter <halbi93@gmx.de> 1708074962 +0100	commit: Change stuff on dev
+c61e57a339e13a8974f7f00bde1fb6945e6aab99 8d57d7ebb0e64b129f1e4855b39c5aceb0222509 Lukas Halbritter <halbi93@gmx.de> 1708075127 +0100	merge feature1: Merge made by the 'ort' strategy.
+8d57d7ebb0e64b129f1e4855b39c5aceb0222509 d194a117476c9abb880a2c0371cf648c8ac2198e Lukas Halbritter <halbi93@gmx.de> 1708075355 +0100	merge hotfix: Merge made by the 'ort' strategy.
+d194a117476c9abb880a2c0371cf648c8ac2198e fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708077742 +0100	merge feature3: Merge made by the 'ort' strategy.
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 Lukas Halbritter <halbi93@gmx.de> 1708078103 +0100	merge feature2: Fast-forward
+65c5ea4c4f4f207aa38f23b62c2a3cfbae7fd292 fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 Lukas Halbritter <halbi93@gmx.de> 1708078237 +0100	branch: Reset to fce532c
+fce532c5e0e8ce7e0af6c324bc8ec59eb69dd734 d9644056eb6317cbeafe5fd34ada6c2845379eca Lukas Halbritter <halbi93@gmx.de> 1708078298 +0100	merge feature2: Merge made by the 'ort' strategy.
+d9644056eb6317cbeafe5fd34ada6c2845379eca 9e4a753cf5817c0f8c92b4390d3a8c611e4ae6cf Lukas Halbritter <halbi93@gmx.de> 1708078487 +0100	merge release: Merge made by the 'ort' strategy.

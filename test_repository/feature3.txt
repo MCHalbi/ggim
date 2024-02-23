@@ -1,0 +1,2 @@
+More stuff happens on feature3.
+Now I am done with feature3!
